@@ -1,7 +1,7 @@
 News app
 ==================================
 
-This app was made by following and mixing tutorials from android basic compose course https://developer.android.com/courses/android-basics-compose/course
+This app was made by following and mixing tutorials from the android basic compose course https://developer.android.com/courses/android-basics-compose/course
 
 
 This app demonstrated the use of [Retrofit](https://square.github.io/retrofit/) to make REST requests to the web service, [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) to
